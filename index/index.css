@@ -1,0 +1,8 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url(https://c.tenor.com/irM8uiNlaUMAAAAM/penguin-slide.gif);
+}
+
+h1, h3, nav {
+    color: gold;
+}
